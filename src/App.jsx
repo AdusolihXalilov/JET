@@ -193,7 +193,7 @@ function App() {
             <div className="flex flex-col lg:flex-row gap-[40px]">
               <div className="w-[300px]">
                 <img src={helmet} alt="helmet" />
-                <h1 className="font-bold text-[25px] mt-[10px] lg:mt-[15px]">Kaska (Dubulg'a) bilan voydalaning</h1>
+                <h1 className="font-bold text-[25px] mt-[10px] lg:mt-[15px]">Kaska (Dubulg'a) bilan foydalaning</h1>
                 <p className="text-[20px] mt-[10px] lg:mt-[15px]">Kaska (Dubulg'a) yiqilib tushganda sizni shikastlanishdan himoya qilishi mumkin.</p>
               </div>
               <div className="w-[300px]">
